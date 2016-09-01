@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Oddonto</string>
+    <string name="Clinica1">Clínica de Odontologia 1</string>
+    <string name="EnderecoClinica1">Rua Itatiba, 324 - Ribeirão Preto - SP</string>
+    <string name="TelefoneClinica1">(16) 3699-3311</string>
+    <string name="btnVerClinica">Ver</string>
+
+    <string name="Clinica2">Clínica de Odontologia 2</string>
+    <string name="EnderecoClinica2">Rua Itararé, 726 - Ribeirão Preto - SP</string>
+    <string name="TelefoneClinica2">(16) 3666-3451</string>
+</resources>
